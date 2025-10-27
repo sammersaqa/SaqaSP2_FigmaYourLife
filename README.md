@@ -19,3 +19,5 @@ I wanted something simple that feels like me. It’s based on a design I made in
 - CSS  
 - Bootstrap  
 - Figma
+
+https://www.figma.com/design/UliYBsHlYHA0zSySs0BLkP/The-life-of-Sammer-Saqa?node-id=0-1&t=OJ6jX4Z0HCvxWXEN-1
