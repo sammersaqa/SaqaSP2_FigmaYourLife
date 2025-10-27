@@ -1,0 +1,21 @@
+# Figma Your Life
+
+This is my personal website. I made it from scratch using HTML, CSS, and Bootstrap. It shows who I am and what I’ve done.
+
+## Why I Made It
+
+I wanted something simple that feels like me. It’s based on a design I made in Figma.
+
+## What’s In It
+
+- A homepage with a background and intro  
+- A page about my interests  
+- A page about my accomplishments  
+- A menu at the bottom to switch pages
+
+## Tools I Used
+
+- HTML  
+- CSS  
+- Bootstrap  
+- Figma
