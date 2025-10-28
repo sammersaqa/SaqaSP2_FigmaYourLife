@@ -1,3 +1,10 @@
+Sammer Saqa
+Date Revised: 10/27/2025
+Figma Your Life
+Description : Made a small snap shot of my current life
+Person who Peer Reviewed your assignment :
+
+
 # Figma Your Life
 
 This is my personal website. I made it from scratch using HTML, CSS, and Bootstrap. It shows who I am and what I’ve done.
