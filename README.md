@@ -1,8 +1,8 @@
-Sammer Saqa
-Date Revised: 10/27/2025
-Figma Your Life
-Description : Made a small snap shot of my current life
-Person who Peer Reviewed your assignment :
+##### Sammer Saqa
+##### Date Revised: 10/27/2025
+##### Figma Your Life
+##### Description : Made a small snap shot of my current life
+##### Person who Peer Reviewed your assignment :
 
 
 # Figma Your Life
