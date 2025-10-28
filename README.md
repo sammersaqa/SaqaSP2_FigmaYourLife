@@ -2,7 +2,7 @@
 ##### Date Revised: 10/27/2025
 ##### Figma Your Life
 ##### Description : Made a small snap shot of my current life
-##### Person who Peer Reviewed your assignment :
+##### Person who Peer Reviewed your assignment : Gavin - Looks pretty close to the Figma. The only page that seems to have a hard time matching is your index page, but everything else looks good.
 
 
 # Figma Your Life
