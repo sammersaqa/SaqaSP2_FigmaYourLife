@@ -2,7 +2,7 @@
 ##### Date Revised: 10/28/2025
 ##### Figma Your Life
 ##### Description : Made a small snap shot of my current life
-##### Person who Peer Reviewed your assignment : 
+##### Person who Peer Reviewed your assignment : Everything on the website looks amazing love the addition of all the pictures of your daughter good design on the interests page but there is a slight issue on the main page where the first picture of your daughter is over lapping with your personal information.
 
 
 # Figma Your Life
